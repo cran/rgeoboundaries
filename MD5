@@ -1,0 +1,13 @@
+e22a0f072801fb3b303db2cb0408e7c5 *DESCRIPTION
+1bca46b42093c8087afae7d80b948141 *LICENSE
+45a49a67b3ed29b33f0886645f9c0eac *NAMESPACE
+3f3c337ffc25f28389f04158e765d6a9 *R/cache.R
+5637562df107b6bf532bb6523ac37f97 *R/geoboundaries.R
+46a897c648a52f6bfaacedf044b6776d *R/onload.R
+f3204e6d93fde651182785ded4dca964 *R/rgeoboundaries-package.R
+33e9a84189cccc47832864a52a3e2187 *R/utils.R
+3ade7324b8425da8f493ae9e46c19bca *man/gb_cache.Rd
+496cb73739a8b49bd0e011ef62b1ccc7 *man/gb_max_adm_lvl.Rd
+e9580acd169e2efe9ac0e5807f4354bf *man/gb_metadata.Rd
+a840e4772bb4ef8b8335bf1ff73a6053 *man/geoboundaries.Rd
+f04131afbfa84033161b1291b83019d5 *man/rgeoboundaries-package.Rd
